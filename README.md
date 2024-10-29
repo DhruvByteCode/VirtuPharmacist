@@ -4,13 +4,9 @@
 
 Keen to put the latest generative AI tools to the test, I created this animated avatar capable of delivering medication counselling in a realistic and professional-sounding manner.
 
-> :warning: Disclaimer: This video is purely for demo purposes as part of a personal hobby project and is not intended to provide any form of medical advice. This is not a real product, and views expressed are my own.
 
-Click the thumbnail below (or [visit this link](https://www.youtube.com/watch?v=RXjTK05U2Ag)) to watch the demo video to see Macy in action, where she briefly talks about two commonly-prescribed medications. 
 
-[![Generative AI Pharmacist](https://img.youtube.com/vi/RXjTK05U2Ag/0.jpg)](https://www.youtube.com/watch?v=RXjTK05U2Ag "Generative AI Pharmacist")
-
-The outcome is pretty impressive and will only get better over time, given the speed at which generative AI is improving. To create this demo, it took me 0 dollars and only 25 minutes.
+The outcome is pretty impressive and will only get better over time, given the speed at which generative AI is improving. To create this, it took me only 25 minutes.
 
 Here are the tools I used:
 1. [**Midjourney**](https://midjourney.com/home/?callbackUrl=%2Fapp%2F) to generate an image of a female pharmacist
@@ -18,8 +14,6 @@ Here are the tools I used:
 3. [**ElevenLabs**](http://www.elevenlabs.io/)'s Prime Video AI to generate audio from the ChatGPT script
 4. [**D-ID**](https://www.d-id.com/)'s Creative Reality Studio to generate realistic animated avatar video synced with audio (Free trial)
 
-#### This project has also been proudly featured in a research study (Artificial Intelligence–Generated Patient Information Videos for Partial Nephrectomy by Medical Students With Expert Validation: A Pilot Study) published in JU Open Plus (The official journal of the American Urological Association):  https://journals.lww.com/juop/fulltext/2024/07000/artificial_intelligence_generated_patient.1.aspx
-___
 <br>
 
 ## Step-by-Step Guide
